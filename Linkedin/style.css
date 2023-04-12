@@ -55,7 +55,7 @@ nav {
 .input-search {
     border: 2px solid transparent;
     border-radius: 5px;
-    background: #eef3f8 url(/Linkedin/search.svg);
+    background: #eef3f8 url(/Linkedin/assets/search.svg);
     background-repeat: no-repeat;
     background-position: 10px;
     padding: 8px 70px 8px 30px;
@@ -86,7 +86,7 @@ nav {
 }
 
 .search-suggestions .search-hits {
-    background: url(/Linkedin/search.svg);
+    background: url(/Linkedin/assets/search.svg);
     background-repeat: no-repeat;
     background-position: 24px;
     padding-left: 48px;
@@ -247,7 +247,7 @@ main {
 main .main-left-1 {
     background-color: white;
     border-radius: 10px;
-    background: white url(/Linkedin/bg1.svg);
+    background: white url(/Linkedin/assets/bg1.svg);
     background-repeat: no-repeat;
     text-align: center;
     padding: 10px;
@@ -308,14 +308,14 @@ main .main-left-1 {
 
 .main-left .try-premium {
     margin-top: 1px;
-    background: url(/Linkedin/premium.svg);
+    background: url(/Linkedin/assets/premium.svg);
     background-repeat: no-repeat;
     background-size: 16px;
     text-indent: 20px;
 }
 
 .main-left .items {
-    background: url(/Linkedin/bookmark.svg);
+    background: url(/Linkedin/assets/bookmark.svg);
     background-repeat: no-repeat;
     text-indent: 20px;
     margin-bottom: 0;
@@ -404,7 +404,7 @@ main .main-left-2 :nth-child(4) {
 }
 
 .main-center-12 :nth-child(1) {
-    background: transparent url(/Linkedin/photo.svg);
+    background: transparent url(/Linkedin/assets/photo.svg);
     background-repeat: no-repeat;
     background-position: 10px;
     text-indent: 32px;
@@ -412,13 +412,13 @@ main .main-left-2 :nth-child(4) {
 }
 
 .main-center-12 :nth-child(1):hover {
-    background: var(--light-gray) url(/Linkedin/photo.svg);
+    background: var(--light-gray) url(/Linkedin/assets/photo.svg);
     background-repeat: no-repeat;
     background-position: 10px;
 }
 
 .main-center-12 :nth-child(2) {
-    background: url(/Linkedin/video.svg);
+    background: url(/Linkedin/assets/video.svg);
     background-repeat: no-repeat;
     background-position: 10px;
     text-indent: 32px;
@@ -426,13 +426,13 @@ main .main-left-2 :nth-child(4) {
 }
 
 .main-center-12 :nth-child(2):hover {
-    background: var(--light-gray) url(/Linkedin/video.svg);
+    background: var(--light-gray) url(/Linkedin/assets/video.svg);
     background-repeat: no-repeat;
     background-position: 10px;
 }
 
 .main-center-12 :nth-child(3) {
-    background: url(/Linkedin/event.svg);
+    background: url(/Linkedin/assets/event.svg);
     background-repeat: no-repeat;
     background-position: 10px;
     text-indent: 32px;
@@ -440,13 +440,13 @@ main .main-left-2 :nth-child(4) {
 }
 
 .main-center-12 :nth-child(3):hover {
-    background: var(--light-gray) url(/Linkedin/event.svg);
+    background: var(--light-gray) url(/Linkedin/assets/event.svg);
     background-repeat: no-repeat;
     background-position: 10px;
 }
 
 .main-center-12 :nth-child(4) {
-    background: url(/Linkedin/write_article.svg);
+    background: url(/Linkedin/assets/write_article.svg);
     background-repeat: no-repeat;
     background-position: 10px;
     text-indent: 32px;
@@ -454,7 +454,7 @@ main .main-left-2 :nth-child(4) {
 }
 
 .main-center-12 :nth-child(4):hover {
-    background: var(--light-gray) url(/Linkedin/write_article.svg);
+    background: var(--light-gray) url(/Linkedin/assets/write_article.svg);
     background-repeat: no-repeat;
     background-position: 10px;
 }
@@ -509,15 +509,15 @@ main .main-left-2 :nth-child(4) {
 }
 
 .bg1 {
-    background-image: url(/Linkedin/jobs1_bg.jpg);
+    background-image: url(/Linkedin/assets/jobs1_bg.jpg);
 }
 
 .bg2 {
-    background-image: url(/Linkedin/jobs2_bg.jpg);
+    background-image: url(/Linkedin/assets/jobs2_bg.jpg);
 }
 
 .bg3 {
-    background-image: url(/Linkedin/jobs3_bg.jpg);
+    background-image: url(/Linkedin/assets/jobs3_bg.jpg);
 }
 
 .job-suggestions img {
@@ -733,7 +733,7 @@ main .main-left-2 :nth-child(4) {
 
 .main-right-1 .show-more {
     display: inline;
-    background: url(/Linkedin/arrow.svg);
+    background: url(/Linkedin/assets/arrow.svg);
     background-repeat: no-repeat;
     background-position: right;
     padding: 0 30px;
